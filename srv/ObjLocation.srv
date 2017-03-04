@@ -1,0 +1,7 @@
+
+---
+float32 xb
+float32 yb
+float32 zb
+bool objfound
+int8 objcolor
