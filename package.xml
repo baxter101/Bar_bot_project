@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
-  <name>baxter_builder</name>
+  <name>bar_bot</name>
   <version>0.0.0</version>
-  <description>The baxter_builder package</description>
+  <description>The bar_bot package</description>
 
-  <maintainer email="josmiranda@todo.todo">josmiranda</maintainer>
+  <maintainer email="baxter101@todo.todo">baxter101</maintainer>
 
 
   <license>TODO</license>
