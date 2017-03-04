@@ -3,6 +3,6 @@
 School project : Robotic bartender
 
 keywords : 
-Baxter research robot
-ROS SDK  
-Python
+* Baxter research robot
+* ROS SDK  
+* Python
