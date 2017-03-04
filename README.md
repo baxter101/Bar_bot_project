@@ -1,2 +1,8 @@
 # Bar_bot_project
-School project : Robotic bartender (Baxter research robot ; ROS ; Python)
+
+School project : Robotic bartender
+
+keywords : 
+* Baxter research robot
+* ROS SDK  
+* Python
