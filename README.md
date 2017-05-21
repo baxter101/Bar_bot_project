@@ -8,6 +8,7 @@ dispense the correct beverage based on coloured labels.
 
 keywords : 
 * Baxter research robot
+* ASUS Xtion PRO
 * ROS SDK  
 * Python
 
