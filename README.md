@@ -2,9 +2,9 @@
 
 School project : Robotic bartender
 
-Goal : Have Baxter detect objects via an external ASUS Xtion camera, pick up a glass and
+Goal : Have Baxter detect objects via an external ASUS Xtion camera and Baxters' arm camera to pick up a glass and
 
-dispense the correct beverage based on coloured labels.
+dispense the correct beverage based on coloured labels. 
 
 keywords : 
 * Baxter research robot
