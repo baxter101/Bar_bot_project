@@ -10,3 +10,8 @@ keywords :
 * Baxter research robot
 * ROS SDK  
 * Python
+
+Libraries we worked with :
+* MoveIt!
+* OpenNi
+* OpenCV
